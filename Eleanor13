@@ -1,4 +1,4 @@
-/* L&An0R v0.13 Home Sweeper Robot by Christophe NADON*/
+/* L&An0R v0.13 Home Sweeper Robot by Nearlyt*/
 #include <Wire.h>
 #include "Adafruit_LEDBackpack.h"
 #include "Adafruit_GFX.h"
